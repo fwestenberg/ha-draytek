@@ -8,8 +8,8 @@ from custom_components.draytek_wifi.PyPi.draytek import routerDevice
 
 _LOGGER = logging.getLogger(__name__)
 
-DEFAULT_NAME = "DrayTek Router"
-DOMAIN = "draytek_router"
+DEFAULT_NAME = "DrayTek"
+DOMAIN = "draytek"
 DEFAULT_USERNAME = "user"
 
 STATE_ICONS = {

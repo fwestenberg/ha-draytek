@@ -1,0 +1,6 @@
+{
+    "name": "Draytek Router integration",
+    "domains": [
+        "switch"
+    ]
+}

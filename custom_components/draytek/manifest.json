@@ -1,0 +1,7 @@
+{
+    "domain": "draytek",
+    "name": "Draytek router",
+    "documentation": "https://github.com/fwestenberg/ha-draytek",
+    "issue_tracker": "https://github.com/fwestenberg/ha-draytek/issues",
+    "codeowners": ["@fwestenberg"]
+  }
